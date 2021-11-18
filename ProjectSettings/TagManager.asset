@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - cueball
+  - goal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - BG
+  - 
+  - 
+  - 
+  - 
+  - 
+  - goalcollider
+  - edgecollider
+  - cueball
+  - balls
+  - cue
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: table
+    uniqueID: 2101412963
+    locked: 0
+  - name: subui
+    uniqueID: 1352560875
+    locked: 0
+  - name: shadow
+    uniqueID: 3334391253
+    locked: 0
+  - name: balls
+    uniqueID: 745521423
+    locked: 0
+  - name: tableupper
+    uniqueID: 3041658621
+    locked: 0
+  - name: cue
+    uniqueID: 3078635245
+    locked: 0
+  - name: ui
+    uniqueID: 1162027643
+    locked: 0
+  - name: postprocessing
+    uniqueID: 2633902725
+    locked: 0
